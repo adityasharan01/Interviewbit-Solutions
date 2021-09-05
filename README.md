@@ -5,6 +5,12 @@ Java code for solutions of interview problems on InterviewBit
 
 ![image](http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png)
 
+
+Markdown Badges
+
+https://github.com/Ileriayo/markdown-badges
+
+
 # 👋 Hello World! I am Smile Gupta 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta)
