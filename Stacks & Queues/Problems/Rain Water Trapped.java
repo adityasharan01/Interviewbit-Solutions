@@ -6,6 +6,7 @@ public class Solution {
     int right = A.size() - 1;
     int leftMax = 0;
     int rightMax = 0;
+    
     while (left < right) {
       if (A.get(left) < A.get(right)) {
         if (A.get(left) > leftMax) {
