@@ -1,3 +1,7 @@
+Markdown Badges
+
+https://github.com/Ileriayo/markdown-badges
+
 # InterviewBit-Java
 Java code for solutions of interview problems on InterviewBit
 
@@ -6,9 +10,6 @@ Java code for solutions of interview problems on InterviewBit
 ![image](http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png)
 
 
-Markdown Badges
-
-https://github.com/Ileriayo/markdown-badges
 
 
 # 👋 Hello World! I am Smile Gupta 
