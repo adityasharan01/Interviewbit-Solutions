@@ -55,8 +55,8 @@ We live in a world where women, capable of giving birth to new life and having t
  </p>  
 
 
-## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/smilegupta/)** :heart: 
+
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/adityasharan01/)** :heart: 
 
 #### Any Project you want me a part of ?
 
