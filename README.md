@@ -3,7 +3,7 @@ Markdown Badges
 https://github.com/Ileriayo/markdown-badges
 
 # InterviewBit-Java
-Java code for solutions of interview problems on InterviewBit
+Java code for solutions of interview problems on InterviewBit  
 
 [My InterviewBit Profile](https://www.interviewbit.com/profile/adityasharan)
 
